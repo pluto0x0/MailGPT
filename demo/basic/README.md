@@ -1,7 +1,1 @@
-<video width="500" height="250" controls="controls">
-
-<source src="records.webm" type="video/webm">
-
-your browset do not support this format
-
-</video>
+https://github.com/pluto0x0/MailGPT/raw/main/demo/basic/records.webm
