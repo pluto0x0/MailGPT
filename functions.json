@@ -1,0 +1,31 @@
+[
+    {
+        "type": "function",
+        "function": {
+            "name": "send_email",
+            "description": "Send an email to specific addressees with Subject and Email Body",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "to": {
+                        "type": "string",
+                        "description": "The list of email addresses to send to, e.g. 'user@example.com, user2@example2.com'"
+                    },
+                    "subject": {
+                        "type": "string",
+                        "description": "The subject of the email to send, e.g. 'Replay to your inquiry'"
+                    },
+                    "body": {
+                        "type": "string",
+                        "description": "The email body, e.g. 'Hi!\\n...\\nRegards,\\nAutoGPT'"
+                    }
+                },
+                "required": [
+                    "to",
+                    "subject",
+                    "body"
+                ]
+            }
+        }
+    }
+]
