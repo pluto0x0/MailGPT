@@ -20,7 +20,7 @@ MailGPT do the following processes:
 - ChatGPT yields a JSON object that contains the information of the email to send
 - Send email via IMAP hosts
 
-## Trajectory
+## Trace
 
 ```plaintext
 $ python .\MailGPT.py

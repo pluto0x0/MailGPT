@@ -10,7 +10,7 @@ Screenshot for `payload_1.html`, `payload_2.html` and `payload_3.html`, which is
 
 ![payload](./pyload.ong.png)
 
-### Trajectory
+### Trace
 
 ```plaintext
 === Reading latest email: ===
@@ -62,7 +62,7 @@ The result is, ChatGPT successfully identified spam content and refused to send 
 
 **see payload 2 soure code (email content) [here](./payload_2.html).**
 
-### Trajectory
+### Trace
 
 ```plaintext
 === Reading latest email: ===
@@ -141,7 +141,7 @@ This demo illustrated the possibility to make large language model (e.g. ChatGPT
 
 **see payload 3 soure code (email content) [here](./payload_3.html).**
 
-### Trajectory
+### Trace
 
 ```plaintext
 === Reading latest email: ===
