@@ -4,7 +4,7 @@
 
 MailGPT is a simple client that helps to reply emails by ChatGPT via OpenAI api.
 
-## To Use
+## Setup
 
 0: Clone the repo
 
